@@ -1,0 +1,49 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js (if you use any JS tools)
+node_modules/
+npm-debug.log
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Reports / Docs temporary files
+*.tmp
+*.log
+*.bak
+~$*
+
+# Video files (too large for GitHub, better upload to YouTube/Drive and link in README)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Binary or executable files
+*.exe
+*.dll
+*.bin
+*.apk
+
+# IDE / Project settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Security
+secrets.txt
+*.key
+*.pem
